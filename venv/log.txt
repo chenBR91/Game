@@ -1,0 +1,40 @@
+18-6-2021 21:3  DEBUG	
+*********************************************************************************************
+18-6-2021 21:3  DEBUG	************* Starting dummyTest on App: Games ******************
+18-6-2021 21:3  DEBUG	Opened Application: Games
+18-6-2021 21:3  DEBUG	create a new user named: chen
+18-6-2021 21:3  DEBUG	chen play rock paper and scissors game
+18-6-2021 21:3  DEBUG	chen: win
+18-6-2021 21:3  DEBUG	chen: win
+18-6-2021 21:3  DEBUG	chen: exit game
+18-6-2021 21:3  DEBUG	chen play secret number guess game
+18-6-2021 21:4  DEBUG	chen: lose
+18-6-2021 21:4  DEBUG	chen: exit game
+18-6-2021 21:4  DEBUG	create a new user named: avi
+18-6-2021 21:4  DEBUG	avi play hangman game
+18-6-2021 21:4  DEBUG	avi: lose
+18-6-2021 21:4  DEBUG	avi: exit game
+18-6-2021 21:4  DEBUG	*************End Of Test on: Games***************
+18-6-2021 21:4  DEBUG	*********************************************************************************************
+
+24-10-2021 22:10  DEBUG	
+*********************************************************************************************
+24-10-2021 22:10  DEBUG	************* Starting dummyTest on App: Games ******************
+24-10-2021 22:10  DEBUG	Opened Application: Games
+24-10-2021 22:10  DEBUG	create a new user named: Chen
+24-10-2021 22:10  DEBUG	Chen play hangman game
+24-10-2021 22:10  DEBUG	Chen: lose
+24-10-2021 22:10  DEBUG	Chen: exit game
+24-10-2021 22:10  DEBUG	Chen play secret number guess game
+24-10-2021 22:11  DEBUG	Chen: lose
+24-10-2021 22:11  DEBUG	Chen: exit game
+24-10-2021 22:11  DEBUG	Chen play rock paper and scissors game
+24-10-2021 22:11  DEBUG	Chen: lose
+24-10-2021 22:12  DEBUG	Chen: win
+24-10-2021 22:12  DEBUG	Chen: Tie
+24-10-2021 22:12  DEBUG	Chen: Tie
+24-10-2021 22:12  DEBUG	Chen: win
+24-10-2021 22:12  DEBUG	Chen: exit game
+24-10-2021 22:12  DEBUG	*************End Of Test on: Games***************
+24-10-2021 22:12  DEBUG	*********************************************************************************************
+
